@@ -1,20 +1,56 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Onchain Summer and NFT.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is an NFT?",
+      "answers": ["Token", "Coin", "Block"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What does NFT stand for?",
+      "answers": ["Nonfung", "Neftoken", "Nifty"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which blockchain is popular for NFTs?",
+      "answers": ["ETH", "BTC", "LTC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is minting?",
+      "answers": ["Create", "Sell", "Buy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a wallet?",
+      "answers": ["Store", "Exchange", "Coin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a smart contract?",
+      "answers": ["Code", "Paper", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a famous NFT?",
+      "answers": ["CryptoK", "BitCoin", "Lite"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is OpenSea?",
+      "answers": ["Market", "Wallet", "Chain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is gas fee?",
+      "answers": ["Fee", "Gas", "Oil"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is airdrop?",
+      "answers": ["Free", "Drop", "Sell"],
       "correctAnswerIndex": 0
     }
   ]
 }
+
